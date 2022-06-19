@@ -1,4 +1,4 @@
-Code Editor
+_*Code Editor*_
 Code Web is a web application that provides workspace to write, perform, display the results of the code through the terminal.
 The main features of Code Web are providing workspace to make, execute and build the source code. This application supports HTML, CSS and JS.
 There are two panes in this code editor- One where the code run (upper half of the app that contains the three code containers) and the other where the output is displayed (lower half ‘result’ code window).
